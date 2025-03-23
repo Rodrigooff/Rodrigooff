@@ -13,7 +13,7 @@
 ##
 
 <div>
-<a href="https://instagram.com/drig_00" target="blankscing sec"https://icongr.am/jam/camera.svg?size=128&color=currentColor></a>
+<a href="https://instagram.com/drig_00" img align="center" alt="Rodrigo-php" height="30" width="40" target="blankscing sec"https://icongr.am/jam/camera.svg?size=128&color=currentColor></a>
 </div>
 
 
