@@ -1,6 +1,6 @@
 ## Hi, my name is Rodrigo, I'm new to this area, I'm constantly learning.👋
- 
- <h3>Hello World</h3>
+ <hr size="5"> 
+<h4>Hello World</h4>
   
   <div>
 <img align="center" alt="Rodrigo-gif" height="500" width="500" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306502807414902806">
@@ -18,7 +18,7 @@
 
 ##
 
-<div> 
+<di=5v> 
   <img align="left" alt="Rodrigo-gif" height="140" width="140" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
     </div>
 
