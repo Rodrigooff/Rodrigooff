@@ -1,8 +1,13 @@
 ## Hi, my name is Rodrigo, I'm new to this area, I'm constantly learning.👋
+ 
+ <h3>Hello World</h3>
+  
   <div>
 <img align="center" alt="Rodrigo-gif" height="500" width="500" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306502807414902806">
    </div>
+
 ##
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodrigo-html5" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
 <img align="center" alt="Rodrigo-php" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
