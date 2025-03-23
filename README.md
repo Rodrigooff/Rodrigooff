@@ -13,7 +13,7 @@
 ##
 
 <div>
-<a href="https://instagram.com/drig_00" target="blankscing sec"https://img.shields.io/badge/ Instagram-52364405F7style-for-the-badgekingo-instagramålogoColor-white"target="_blank"></a>
+<a href="https://instagram.com/drig_00" target="blankscing sec"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
 </div>
 
 
