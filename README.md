@@ -12,7 +12,11 @@
 
 ##
 
-<div>
+<div> 
+  <img align="center" alt="Rodrigo-gif" height="30" width="40" src="https://pa1.aminoapps.com/6479/6825edf986c6853af73ccae49a63c428f39e07bd_hq.gif
+    </div>
+
+  <div>
 <a href="https://instagram.com/drig_00" img align="center" alt="Rodrigo-php" height="30" width="40" target="blankscing sec"https://icongr.am/jam/camera.svg?size=128&color=currentColor></a>
 </div>
 
