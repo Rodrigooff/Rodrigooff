@@ -13,7 +13,7 @@
 ##
 
 <div> 
-  <img align="left" alt="Rodrigo-gif" height="100" width="100" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
+  <img align="left" alt="Rodrigo-gif" height="140" width="140" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
     </div>
 
   <div>
