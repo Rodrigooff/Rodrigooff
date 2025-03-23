@@ -1,6 +1,8 @@
 ## Hi, my name is Rodrigo, I'm new to this area, I'm constantly learning.👋
 
 
+<img align="left" alt="Rodrigo-gif" height="500" width="500" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306502807414902806">
+
 ##
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodrigo-html5" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
@@ -9,6 +11,7 @@
 <img align="center" alt="Rodrigo-css3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=119&color=currentColor">
 <img align="center" alt="Rodrigo-php" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
 </div>
+
 ##
 
 <div> 
