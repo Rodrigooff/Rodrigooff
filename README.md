@@ -13,7 +13,7 @@
 ##
 
 <div>
-<a href="https://instagram.com/drig_00" target="blankscing sec"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+<a href="https://instagram.com/drig_00" target="blankscing sec"https://icongr.am/jam/camera.svg?size=128&color=currentColor></a>
 </div>
 
 
