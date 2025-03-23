@@ -3,7 +3,7 @@
 <h4>Hello World</h4>
   
   <div>
-<img align="center" alt="Rodrigo-gif" height="500" width="1000" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306503465551265793">
+<img align="center" alt="Rodrigo-gg" height="500" width="1000" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306503465551265793">
    </div>
 
 ##
@@ -18,12 +18,10 @@
 
 ##
 
-<di=5v> 
+<div> 
   <img align="left" alt="Rodrigo-gif" height="140" width="140" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
     </div>
 
   <div>
 <a href="https://instagram.com/drig_00" img align="center" alt="Rodrigo-php" height="30" width="40" target="blankscing sec"https://icongr.am/jam/camera.svg?size=128&color=currentColor></a>
 </div>
-
-
