@@ -13,7 +13,7 @@
 ##
 
 <div> 
-  <img align="center" alt="Rodrigo-gif" height="1000" width="1050" src="https://pa1.aminoapps.com/6479/842f6b8d47daf28df7fd059453fffee7e42ff5bb_hq.gif">
+  <img align="center" alt="Rodrigo-gif" height="100" width="150" src="https://pa1.aminoapps.com/6479/842f6b8d47daf28df7fd059453fffee7e42ff5bb_hq.gif">
     </div>
 
   <div>
