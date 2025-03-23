@@ -3,7 +3,7 @@
 <h4>Hello World</h4>
   
   <div>
-<img align="center" alt="Rodrigo-gif" height="500" width="500" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306502807414902806">
+<img align="center" alt="Rodrigo-gif" height="500" width="1000" src="https://discord.com/channels/1306472985489707008/1306472985963532298/1306503465551265793">
    </div>
 
 ##
