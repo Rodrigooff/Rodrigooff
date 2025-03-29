@@ -12,5 +12,5 @@
 <hr size="5">
 
 <div> 
-  <img align="left" alt="Rodrigo-gif" height="140" width="140" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
+  <img align="left" alt="Rodrigo-gif" height="150" width="150" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif">
 </div>
