@@ -41,6 +41,6 @@
 
 <img src="https://github.com/Rodrigooff/Dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-![Snake animation](https://github.com/Rodrigooff/Rodrigooff/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Dev/Dev/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigooff&repo=Rodrigooff&theme=react)](https://github.com/Rodrigooff/Rodrigooff)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Dev&repo=Dev&theme=react)](https://github.com/Rodrigooff/Rodrigooff)
