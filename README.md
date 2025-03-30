@@ -29,10 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
-
 <br clear="both">
-
 <img align="right" height="160" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif"  />
 
 ###
@@ -40,6 +37,3 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/Rodrigooff/Dev/blob/output/github-contribution-grid-snake-dark.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigooff&repo=Rodrigooff&theme=react)](https://github.com/Rodrigooff/Rodrigooff)
-
-![Snake animation](https://github.com/Rodrigooff/Rodrigooff/blob/output/github-contribution-grid-snake.svg)
