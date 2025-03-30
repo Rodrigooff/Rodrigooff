@@ -30,7 +30,7 @@
 </div>
 
 <br clear="both">
-<img align="right" height="160" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif"  />
+<img align="right" height="140" src="https://media.tenor.com/2tmFzIpCJTYAAAAM/shinji-shinji-ikari.gif"  />
 
 ###
 
