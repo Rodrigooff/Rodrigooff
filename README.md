@@ -40,4 +40,7 @@
 <br clear="both">
 
 <img src="https://github.com/Rodrigooff/Dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-[![readme](https://github-readme-stats.vercel.app/api/pin/?Rodrigooff=your_Rodrigooff&theme=react)](https://github.com/Rodrigooff/Rodrigooff)
+
+![Snake animation](https://github.com/Rodrigooff/Rodrigooff/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigooff&repo=Rodrigooff&theme=react)](https://github.com/Rodrigooff/Rodrigooff)
