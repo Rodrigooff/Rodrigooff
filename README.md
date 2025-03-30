@@ -48,4 +48,3 @@
 <img src="https://github.com/Rodrigooff/Dev/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ###
-<img src="https://github.com/Rodrigooff/Dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
